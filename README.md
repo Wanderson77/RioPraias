@@ -10,7 +10,7 @@
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/omariosouto/pokedex/blob/master/LICENSE)
 
 [![Rocket.Chat on Apple App Store](https://user-images.githubusercontent.com/551004/29770691-a2082ff4-8bc6-11e7-89a6-964cd405ea8e.png)](https://itunes.apple.com/us/app/rocket-chat/id1148741252?mt=8)
-[![Rocket.Chat on Google Play](https://user-images.githubusercontent.com/551004/29770692-a20975c6-8bc6-11e7-8ab0-1cde275496e0.png)](https://play.google.com/store/apps/details?id=chat.rocket.android)  
+[![Rocket.Chat on Google Play](https://user-images.githubusercontent.com/551004/29770692-a20975c6-8bc6-11e7-8ab0-1cde275496e0.png)](https://play.google.com/store/apps/details?id=chat.rocket.android)
 
 ## Mobile Apps
 
@@ -27,7 +27,7 @@
 
 + Components Class / Hooks
 + Figma
-+ Material UI  
++ Material UI
 + Styled Components
 + Context API (Redux)
 + React Navigation Tabs
@@ -38,21 +38,22 @@
 + Scroll infinito
 + Place Graph
 + Lottie
-+ Storybook  
++ Storybook
++ Tests | React Test Library
++ ServerLess (AWS)
 
 ## Dev Experience (Feat)
 
 + TypeScript | JavaScript
 + VSCode
-+ Style AirBnB + Prettier
-+ Firebase
-+ Tests | React Test Library
-+ ServerLess (AWS)
++ Linter Style AirBnB + Prettier
++ ReactoTron
++ Flipper
 + Insomnia | Postman
 + GraphQL | API Rest
-+ CI | CD (App Center / GitHub Actions)
++ CI | CD (App Center / GitHub Actions / FastLane / TestFlight)
 + Docker | Kubernetes
-  
+
 ## Monetização
 
 + In App Purchase
