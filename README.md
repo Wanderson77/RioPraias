@@ -39,7 +39,6 @@
 + Place Graph
 + Lottie
 + Storybook
-+ Tests | React Test Library
 + ServerLess (AWS)
 
 ## Dev Experience (Feat)
@@ -50,6 +49,7 @@
 + ReactoTron
 + Flipper
 + Insomnia | Postman
++ Tests (Jest / React Test Library / Detox)
 + GraphQL | API Rest
 + CI | CD (App Center / GitHub Actions / FastLane / TestFlight)
 + Docker | Kubernetes
