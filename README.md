@@ -26,7 +26,6 @@
 ## React Native Features
 
 + Components Class / Hooks
-+ Figma
 + Material UI
 + Styled Components
 + Context API (Redux)
@@ -38,14 +37,15 @@
 + Scroll infinito
 + Place Graph
 + Lottie
-+ Storybook
 + ServerLess (AWS)
 
-## Dev Experience (Feat)
+## DX
 
 + TypeScript | JavaScript
 + VSCode
 + Linter Style AirBnB + Prettier
++ Figma
++ Storybook
 + ReactoTron
 + Flipper
 + Insomnia | Postman
