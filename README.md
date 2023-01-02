@@ -44,13 +44,14 @@
 + TypeScript | JavaScript
 + VSCode
 + Linter Style AirBnB + Prettier
-+ Figma
-+ Storybook
++ Figma + Storybook
 + ReactoTron
 + Flipper
-+ Insomnia | Postman
++ CommitLint + Commitizen
++ Husky + Lint-staged
 + Tests (Jest / React Test Library / Detox)
 + GraphQL | API Rest
++ Insomnia | Postman
 + CI | CD (App Center / GitHub Actions / FastLane / TestFlight)
 + Docker | Kubernetes
 
