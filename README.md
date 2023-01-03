@@ -41,14 +41,13 @@
 
 ## DX
 
-+ TypeScript | JavaScript
-+ VSCode
++ VSCode + TypeScript | JavaScript
 + Linter Style AirBnB + Prettier
 + Figma + Storybook
 + ReactoTron
 + Flipper
-+ CommitLint + Commitizen
 + Husky + Lint-staged
++ CommitLint + Commitizen
 + Tests (Jest / React Test Library / Detox)
 + GraphQL | API Rest
 + Insomnia | Postman
