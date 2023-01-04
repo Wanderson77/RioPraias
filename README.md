@@ -25,9 +25,10 @@
 
 ## React Native Features
 
-+ Components Class / Hooks
-+ Material UI
++ Components Functions / Hooks
++ Flexbox Layout
 + Styled Components
++ Material UI
 + Context API (Redux)
 + React Navigation Tabs
 + React Native Camera
