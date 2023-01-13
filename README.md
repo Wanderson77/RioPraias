@@ -23,9 +23,10 @@
 + Descontos em passagens / hotéis
 + Dicas de bons lugares para conhecer e roteiros legais
 
-## React Native Features
+## React Native Feat
 
-+ Components Functions / Hooks
++ Hooks
++ Core Components
 + Flexbox Layout
 + Styled Components
 + Material UI
@@ -38,7 +39,17 @@
 + Scroll infinito
 + Place Graph
 + Lottie
-+ ServerLess (AWS)
+
+## Firebase
+
++ Authentication
++ RealTime db
++ Analytics
++ Cloud Messaging
++ Storage
++ AppIndex
++ Cloud Functions
++ AdMob
 
 ## DX
 
