@@ -23,7 +23,7 @@
 + Descontos em passagens / hotéis
 + Dicas de bons lugares para conhecer e roteiros legais
 
-## React Native Feat
+## React Native / I Love 
 
 + Hooks
 + Core Components
@@ -33,6 +33,8 @@
 + Context API (Redux)
 + React Navigation Tabs
 + React Native Camera
++ React Native Reanimated
++ React Native Gesture Handler
 + Sliding Card
 + Map animation
 + Imagens com LazyLoad
@@ -53,7 +55,7 @@
 
 ## DX
 
-+ VSCode + TypeScript | JavaScript
++ VSCode + TypeScript | JavaScript (es6)
 + Linter Style AirBnB + Prettier
 + Figma + Storybook
 + ReactoTron
