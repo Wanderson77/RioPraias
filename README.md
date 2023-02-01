@@ -23,14 +23,13 @@
 + Descontos em passagens / hotéis
 + Dicas de bons lugares para conhecer e roteiros legais
 
-## React Native / I Love 
+## React Native / I Love
 
 + Hooks
 + Core Components
 + Flexbox Layout
 + Styled Components
 + Material UI
-+ Context API (Redux)
 + React Navigation Tabs
 + React Native Camera
 + React Native Reanimated
@@ -40,6 +39,7 @@
 + Imagens com LazyLoad
 + Scroll infinito
 + Place Graph
++ Context API (Redux)
 + Lottie
 
 ## Firebase
