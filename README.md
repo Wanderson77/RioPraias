@@ -41,6 +41,8 @@
 + Place Graph
 + Context API (Redux)
 + Lottie
++ Weather API
++ Google Maps API
 
 ## Firebase
 
