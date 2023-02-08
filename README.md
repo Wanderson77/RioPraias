@@ -23,7 +23,7 @@
 + Descontos em passagens / hotéis
 + Dicas de bons lugares para conhecer e roteiros legais
 
-## React Native / I Love 
+## React Native / I Love
 
 + Hooks
 + Core Components
@@ -41,6 +41,8 @@
 + Scroll infinito
 + Place Graph
 + Lottie
++ Weather API
++ Google Maps API
 
 ## Firebase
 
