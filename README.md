@@ -28,7 +28,6 @@
 + Hooks
 + Core Components
 + Flexbox Layout
-+ Styled Components
 + Material UI
 + React Navigation Tabs
 + React Native Camera
@@ -38,7 +37,7 @@
 + Map animation
 + Place Graph
 + Lottie
-+ Context API (Redux)
++ Context API
 + Weather API
 + Google Maps API
 + ... e mais
