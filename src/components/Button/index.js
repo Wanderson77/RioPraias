@@ -1,12 +1,18 @@
-import React from 'react'
+import { useState, useEffect } from 'react'
 import { View, Text } from 'react-native'
-import styles from './style'
+import styles from './styles'
 
 export default function index() {
-  const [myState, setMyState] = useStates (false)
+  const [myState, setMyState] = useState (false);
+  const [error, setError] = useState (true);
+
+  useEffect(() => {
+    console.log('RN', error);
+  },[])
+
   return (
     <View style={styles.container}>
-      <Text>index</Text>
+      <Text style={styles.title}>Mobile Marketing</Text>
     </View>
   )
 }
