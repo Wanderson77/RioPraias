@@ -12,4 +12,10 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     color: 'red',
   },
+  touchableOpacity:{
+    height: 40,
+    width: 40,
+    padding: 0,
+    color: 'white',
+  },
 })
