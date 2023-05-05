@@ -18,4 +18,9 @@ const styles = StyleSheet.create({
     padding: 0,
     color: 'white',
   },
+  image:{
+    flex: 1,
+    resizeMode: 'cover',
+    justifyContent: 'space-between',
+  }
 })

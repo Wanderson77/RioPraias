@@ -1,5 +1,11 @@
 import { useState, useEffect } from 'react'
-import { View, Text, TouchableOpacity, Alert } from 'react-native'
+import {
+  SafeAreaView,
+  View,
+  Text,
+  TouchableOpacity,
+  Alert
+} from 'react-native'
 import styles from './styles'
 
 export default function index() {
@@ -7,6 +13,8 @@ export default function index() {
   const [error, setError] = useState (true);
   const [feed, setFeed] = useState ([]);
   const [page, setPage] = useState (1);
+
+  const greeting = 'Hello FB';
 
   function handleActionUser() {
     if (airbnbStyle === undefined) {
@@ -21,13 +29,15 @@ export default function index() {
   },[])
 
   return (
-    <View style={styles.container}>
-      <Text style={styles.title}>Mobile Marketing</Text>
-      <TouchableOpacity
-        style={styles.touchableOpacity}
-        onPress={() => Alert('Action clicked')}
-      >
-      </TouchableOpacity>
-    </View>
+    <SafeAreaView>
+      <View style={styles.container}>
+        <Text style={styles.title}>Mobile Marketing</Text>
+        <TouchableOpacity
+          style={styles.touchableOpacity}
+          onPress={handleActionUser}
+        >
+        </TouchableOpacity>
+      </View>
+    </SafeAreaView>
   )
 }
