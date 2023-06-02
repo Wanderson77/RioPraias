@@ -1,15 +1,25 @@
-import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { useEffect, useState } from 'react';
+import { SafeAreaView, Text, View } from 'react-native';
+
+const LEVEL = 2;
 
 const Home = ({ route }) => {
+  const [error, setError] = useState();
   const { item } = route.params;
+
+  useEffect(() => {
+    console.log('Mounting component');
+  }, [])
+
   return (
-    <View style={styles.container}>
-      <View style={styles.contentContainer}>
-        <Text style={styles.title}>Home Delivery address: </Text>
-        <Text style={styles.text}>{item}</Text>
+    <SafeAreaView>
+      <View style={styles.container}>
+        <View style={styles.contentContainer}>
+          <Text style={styles.title}>Home Delivery address: </Text>
+          <Text style={styles.text}>{item}</Text>
+        </View>
       </View>
-    </View>
+    </SafeAreaView>
   );
 };
 
