@@ -23,23 +23,4 @@
 + Descontos em passagens / hotéis
 + Dicas de bons lugares para conhecer e roteiros legais
 
-## React Native / I Love
-
-+ Hooks
-+ Core Components
-+ Flexbox Layout
-+ Material UI
-+ React Navigation Tabs
-+ React Native Camera
-+ React Native Reanimated
-+ React Native Gesture Handler
-+ Sliding Card
-+ Map animation
-+ Place Graph
-+ Lottie
-+ Context API
-+ Weather API
-+ Google Maps API
-+ ... e mais
-
 Feito com 💖 by Wanderson Aldo [Keep Coding !!!!]
